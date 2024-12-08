@@ -1,23 +1,7 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+# Features
+
+    Performance. Oculus should fully utilize your graphics card when paired with optimization mods like Rubidium.
+    Mod compatibility. Oculus should make a best effort to be compatible with modded environments.
+    Backwards compatibility. All existing ShadersMod / OptiFine shader packs should just work on Iris, without any modifications required.
+    A well-organized codebase. I'd like for working with Iris code to be a pleasant experience overall.
